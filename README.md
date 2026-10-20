@@ -8,6 +8,7 @@ Resoluções dos trabalhos de casa do [Machine Learning Zoomcamp](https://github
 |---|------|-------|--------|
 | 2 | Regressão linear (eficiência de combustível) | [02-regression](02-regression/) | Concluído ([Colab](https://colab.research.google.com/drive/1g77auWHbpZQ9Y8i8j-U3V56J_JPF1DDy?usp=sharing)) |
 | 3 | Classificação (lead scoring) | [03-classification](03-classification/) | Concluído ([Colab](https://colab.research.google.com/drive/1mV63ZzE9gj5ZrqY5JzAU1N-C_1BJYjDP?usp=sharing)) |
+| 4 | Avaliação de modelos (lead scoring) | [04-evaluation](04-evaluation/) | Concluído ([Colab](https://colab.research.google.com/drive/1oxsqVYrW4VpeWSTd8sk1NPWVrn2JLq0E?usp=sharing)) |
 
 ## Como correr
 
